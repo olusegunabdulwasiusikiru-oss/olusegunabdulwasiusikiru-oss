@@ -1,20 +1,29 @@
 ## Hi there 👋
 
+#
 # Olusegun Abdulwasiu Sikiru
 
-## Independent Researcher | Applied Mathematics and AI
+### Independent Researcher | Applied Mathematics | Artificial Intelligence
 
-I hold an MSc in Data Science from Manchester Metropolitan
-University and an MSc in Mathematics from Olabisi Onabanjo
-University, with professional experience in mathematics
-lecturing and NHS healthcare.
+Based in Edinburgh, United Kingdom.
+
+## Academic Background
+
+- MSc Data Science (Merit) - Manchester Metropolitan University
+- MSc Mathematics (Merit) - Olabisi Onabanjo University
+- BSc Mathematics - Olabisi Onabanjo University
+
+## Professional Background
+
+- Former Mathematics Lecturer, Federal Polytechnic Ilaro
+- Healthcare Professional, NHS Lothian
+- Independent Researcher
 
 ## Research Interests
 
-- Applied Mathematics
-- Artificial Intelligence
-- Scientific Machine Learning
-- Physics-Informed Neural Networks
+- Applied Mathematics and Numerical Analysis
+- Artificial Intelligence and Machine Learning
+- Physics-Informed Neural Networks (PINNs)
 - Partial Differential Equations
 - Healthcare Data Science
 - Predictive Modelling
@@ -23,25 +32,30 @@ lecturing and NHS healthcare.
 
 ## Technical Skills
 
-Python | SQL | R | Power BI | NumPy | Pandas |
-Scikit-learn | TensorFlow | Statistical Modelling
+Python | R | SQL | Power BI | TensorFlow | PyTorch |
+Pandas | NumPy | Scikit-learn | Statistical Modelling
 
-## Research Projects
+## Current Research Projects
 
-- Depression Trajectory Prediction
-- Learning Disability Healthcare Inequalities
-- Adaptive Hybrid Physics-Informed Neural Networks
-- Predictive Occupational Safety
-- Diabetes Risk Modelling
-- Infectious Disease Modelling
+1. Depression Trajectory Prediction
+2. Learning Disability Healthcare Inequalities
+3. Adaptive Hybrid Physics-Informed Neural Networks
+4. Predictive Occupational Safety
+5. Diabetes Risk Prediction
+6. Infectious Disease Modelling
 
-Projects are at different stages of research and development.
+These projects are at different stages of development,
+validation and academic review.
 
 ## Academic Profiles
 
 - [ORCID](https://orcid.org/0009-0004-2023-3909)
 - [GitHub](https://github.com/olusegunabdulwasiusikiru-oss)
 
-Location: Edinburgh, United Kingdom
+## Research Collaboration
+
+Open to academic collaboration and PhD opportunities
+in Applied Mathematics, Artificial Intelligence,
+Scientific Machine Learning and Healthcare Data Science.
 
 -->
